@@ -18,6 +18,7 @@ git clone https://github.com/reibrito/previsao-do-tempo.git
 ```javascript
 const api_key = 'sua-chave-de-api';
 ```
+https://ReiBrito.github.io/previsao-do-tempo/
 
 4. Agora você poderá visualizar a previsão do tempo para a sua localização atual.
 
