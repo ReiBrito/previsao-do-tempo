@@ -21,9 +21,8 @@ const api_key = 'sua-chave-de-api';
 4. Agora você poderá visualizar a previsão do tempo para a sua localização atual.
 
 ## Demonstração
-```
+
 https://ReiBrito.github.io/previsao-do-tempo/
-```
 
 ## Tela
 
